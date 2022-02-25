@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf1d2D0E0997e1895c85938F3ECf0f37AD3895945",
+  "SCAN_LINK": "https://etherscan.io/address/0xf1d2d0e0997e1895c85938f3ecf0f37ad3895945",
+  "NETWORK": {
+    "NAME": "Ethererum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Acidelic mfer",
+  "SYMBOL": "ACIFMF",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 200000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/putins-invasion",
+  "SHOW_BACKGROUND":false
+}
